@@ -1,0 +1,60 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-image: url("https://cdn.pixabay.com/photo/2015/11/03/09/03/architecture-1026375_1280.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+}
+
+#head1 {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 20px 0;
+  color: #fff;
+}
+
+h2 {
+  font-weight: bold;
+  margin: 0;
+}
+
+#auth,
+#price {
+  color: #ffcc00;
+}
+
+#btn {
+  background-color: #0066ff;
+  border: none;
+  padding: 10px 30px;
+}
+
+#btn:hover {
+  background-color: #0055cc;
+}
+
+#f1 {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  padding: 15px 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+input,
+select {
+  margin-bottom: 15px;
+}
+
+a#link {
+  color: white;
+  background-color: #ff3300;
+  padding: 5px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a#link:hover {
+  background-color: #cc2900;
+}
